@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vngupro
 - 👀 I’m interested in programming !
 - 🌱 I’m currently learning how to create video games.
-- 💞️ I’m looking to collaborate on projects of different genre.
+- 💞️ I’m looking to collaborate on projects of different genre with expert programmer.
 - 📫 How to reach me : vngu.pro@gmail.com
