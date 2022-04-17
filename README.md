@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vngupro
+- 👋 Hi, I’m Virginie Nguyen @vngupro
 - 👀 I’m interested in programming ! Right now I'm coding my first game engine with SDL2 in C++ !
 - 🌱 I’m currently learning how to create video games.
 - 💞️ I’m looking to collaborate on projects of different genre with expert programmer.
