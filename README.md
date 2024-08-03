@@ -13,10 +13,10 @@
 - 💞️ I’m looking to collaborate on projects of different genre with video games lover
 
 <div align="center"> 
-  <a href="mailto:vngu.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:vngu.pro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nguyenvirginie" target="_blank">
+  <a href="https://linkedin.com/in/nguyenvirginie" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://virginienguyen.wixsite.com/portefolio" target="_blank">
