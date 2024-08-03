@@ -11,5 +11,15 @@
 - 👀 I’m interested in programming ! Right now, I'm really into optimisation problems and AI new techs!
 - 🌱 I’m currently learning how to create a game engine with Vulkan this time and learning Rust here and there.
 - 💞️ I’m looking to collaborate on projects of different genre with video games lover
-- 📫 How to reach me : vngu.pro@gmail.com
-- 🌐 My portefolio : https://virginienguyen.wixsite.com/portefolio
+
+<div align="center"> 
+  <a href="mailto:vngu.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/nguyenvirginie" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://virginienguyen.wixsite.com/portefolio" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
