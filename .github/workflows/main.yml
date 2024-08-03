@@ -17,20 +17,29 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v4
-    # Generates the snake  
-      - uses: Platane/snk/svg-only@v3
+      - name: Clone repo
+        uses: actions/checkout@v4
+    # Generates the snake
+      - name: Generate the snake files in './dist/'
+        uses: Platane/snk/svg-only@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
               dist/github-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
-              
+        env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show build status
+        run: git status
+        
       - name: push github-snake.svg
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: snake
           build_dir: dist
           keep_history: no
+          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
