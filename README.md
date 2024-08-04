@@ -8,10 +8,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=20B34A&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Virginie+Nguyen!;" />
 </h1>
 
-- 👀 I’m interested in programming ! Right now, I'm really into optimisation problems and AI new techs!
-- 🌱 I’m currently learning how to create a game engine with Vulkan this time and learning Rust here and there.
-- 💞️ I’m looking to collaborate on projects of different genre with video games lover
-
+<div align="center">
+- 👀 Right now, I'm really into optimisation problems and AI new techs!<br>
+- 🌱 Currently learning how to create a game engine with Vulkan this time and learning Rust here and there.<br>
+- 💞️ Looking to collaborate on projects of different genre with video games lover<br>
+</div>
+<br><br>
 <div align="center">
   <a href="https://virginienguyen.wixsite.com/portefolio">
     <img src="https://img.shields.io/badge/-Portefolio-900C3F?style=for-the-badge&logo=todoist&logoColor=white" alt="Portefolio" style="margin: 10px;">
