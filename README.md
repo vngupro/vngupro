@@ -38,7 +38,6 @@
 
 <div align="center">
   <img alt="Virginie Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vngupro&show_icons=true&rank_icon=github&theme=react"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vngupro&langs_count=4&theme=react"/>
 </div>
 
 <p align="center">
