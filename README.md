@@ -30,9 +30,9 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity,unreal,bash,github"/><br>
 </div>
 <br/>
-<!--
+
 [![Metrics](/github-metrics.svg)](https://github.com/vngupro)
--->
+
 <!--
 <div align="center">
 <img alt="Virginie Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vngupro&show_icons=true&rank_icon=github"/>
