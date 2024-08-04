@@ -27,9 +27,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity,unreal,bash,github" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity,unreal,bash,github"/><br>
 </div>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vngupro&show_icons=true&rank_icon=github)](https://github.com/vngupro/github-readme-stats)
+[![Metrics](/github-metrics.svg)](https://github.com/vngupro)
 
+<!--
+<div align="center">
+<img alt="Virginie Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vngupro&show_icons=true&rank_icon=github"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vngupro&langs_count=4"/>
+</div>
+-->
