@@ -3,11 +3,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vngupro/vngupro/blob/snake/github-snake.svg">
   <img alt="github-snake" src="https://github.com/vngupro/vngupro/blob/snake/github-snake.svg">
 </picture>
-
+<br>
 <div align="center">
-  <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>
+  <a href="https://github.com/vngupro/vngupro/blob/main/README_FR.md"><span>Français</span></a>
 </div>
-
+<br>
+<div align="center">
+    <img src="languages.png" width="50" height="50"/>
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=20B34A&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Virginie+Nguyen!;" />
