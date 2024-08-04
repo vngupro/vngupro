@@ -62,3 +62,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_achievements: yes
+          plugin_leetcode: yes
