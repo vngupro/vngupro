@@ -58,7 +58,7 @@ jobs:
           user: ${{ github.repository_owner }}
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_achievements: yes
