@@ -23,7 +23,7 @@
 <div align="center">
 - 👀 En ce moment, je suis vraiment passionnée par les problèmes d'optimisation et les nouvelles technologies en IA !<br>
 - 🌱 Actuellement, j'apprends à créer un moteur de jeu avec Vulkan et je découvre Rust de temps en temps.<br>
-- 💞️ Je suis ouverte à la collaboration sur des projets de genres différents avec des amateurs de jeux vidéo.<br>
+- 💞️ Je suis ouverte à la collaboration sur des projets de genres différents avec des developeurs en jeux vidéo.<br>
 </div>
 
 <br><br>
