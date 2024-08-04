@@ -39,5 +39,6 @@
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vngupro&langs_count=4&theme=react"/>
 </div>
 
-
-[![Metrics](/github-metrics.svg)](https://github.com/vngupro)
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
