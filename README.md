@@ -4,13 +4,14 @@
   <img alt="github-snake" src="https://github.com/vngupro/vngupro/blob/snake/github-snake.svg">
 </picture>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=20B34A&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Virginie+Nguyen!;" />
-</h1>
-
 <div align="center">
   <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>
 </div>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=20B34A&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Virginie+Nguyen!;" />
+</h1>
 
 <div align="center">
 - 👀 Right now, I'm really into optimisation problems and AI new techs!<br>
