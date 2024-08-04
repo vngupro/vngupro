@@ -46,7 +46,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          # Visit https://github.com/lowlighter/metrics#-documentation for full reference
+      # Visit https://github.com/lowlighter/metrics#-documentation for full reference
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
