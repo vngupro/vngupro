@@ -59,5 +59,4 @@ jobs:
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_languages: yes
