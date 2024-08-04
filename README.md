@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning how to create a game engine with Vulkan this time and learning Rust here and there.
 - 💞️ I’m looking to collaborate on projects of different genre with video games lover
 
-[![Linkedin Badge](https://img.shields.io/badge/-Portefolio-900C3F?style=for-the-badge&logo=todoist)](https://www.linkedin.com/in/nguyenvirginie/) 
-[![Mail Badge](https://img.shields.io/badge/-Virginie_Nguyen-0e76a8?style=for-the-badge&logo=linkedin)](https://virginienguyen.wixsite.com/portefolio) 
+[![Portefolio](https://img.shields.io/badge/-Portefolio-900C3F?style=for-the-badge&logo=todoist)](https://virginienguyen.wixsite.com/portefolio)
+[![Linkedin](https://img.shields.io/badge/-Virginie_Nguyen-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nguyenvirginie/)
 [![Mail Badge](https://img.shields.io/badge/-Virginie_Nguyen-333333?style=for-the-badge&logo=gmail)](mailto:vngu.pro@gmail.com)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
