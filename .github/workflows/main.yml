@@ -56,6 +56,8 @@ jobs:
           
           # Options
           user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
