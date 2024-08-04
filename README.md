@@ -3,11 +3,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vngupro/vngupro/blob/snake/github-snake.svg">
   <img alt="github-snake" src="https://github.com/vngupro/vngupro/blob/snake/github-snake.svg">
 </picture>
+
 <br>
+
 <div align="center">
   <a href="https://github.com/vngupro/vngupro/blob/main/README_FR.md"><span>Français</span></a>
 </div>
+
 <br>
+
 <div align="center">
     <img src="languages.png" width="50" height="50"/>
 </div>
