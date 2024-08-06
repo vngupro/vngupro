@@ -3,7 +3,7 @@ name: Generate Snake and Metrics
 # Controls when the action will run. The snake action runs every 6 hours.
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */24 * * *"  # every 12 hours
   workflow_dispatch:
   push:
     branches:
