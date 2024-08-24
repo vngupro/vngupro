@@ -23,7 +23,7 @@
 <div align="center">
 - 👀 Right now, I'm really into optimisation problems and AI new techs!<br>
 - 🌱 Currently learning how to create a game engine with Vulkan and learning Rust here and there.<br>
-- 💞️ Looking to collaborate on projects of different genre with video games lover<br>
+- 🌟 Always looking for challenging projects to push my skills to the next level!<br>
 </div>
 <br><br>
 <div align="center">
