@@ -224,9 +224,10 @@
                     <rect mask="url(#languages-bar)" x="429.2216483649678" y="0" width="12.832483122549933" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="442.05413148751774" y="0" width="11.52055270344252" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="453.5746841909602" y="0" width="4.630298632639796" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.20498282360006" y="0" width="1.2445751779667014" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="458.20498282360006" y="0" width="0.6698104535659638" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="458.874793277166" y="0" width="0.5747647244007377" height="8" fill="#222c37"/>
                     <rect mask="url(#languages-bar)" x="459.44955800156674" y="0" width="0.44398329785252294" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.89354129941927" y="0" width="0.10645870058073559" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="459.8935412994192" y="0" width="0.10645870058073559" height="8" fill="#aace60"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -258,6 +259,12 @@
                             <path fill="#5686a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         GLSL
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#222c37" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        ShaderLab
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1283,6 +1290,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1357,7 +1369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2026, 04:12:19 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2026, 04:17:48 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
